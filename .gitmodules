@@ -1,0 +1,3 @@
+[submodule "csZBar"]
+	path = csZBar
+	url = git@github.com:Tecnosolve/csZBar.git
